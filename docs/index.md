@@ -28,8 +28,8 @@ Introduction to Python and Rasberry PI PICO
 [MODULE5](module5.md)
 Sensors and Actuators
 
-### MODULE 6
+[MODULE6](module6.md)
 Introduction to Wired Communication Protocol
 
-### MODULE 7
+[MODULE7](module7.md)
 Wired communication protocols
