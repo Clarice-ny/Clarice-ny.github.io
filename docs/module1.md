@@ -9,3 +9,6 @@ HTML & CSS: Understanding the structure and styling of web pages. This includes 
 Introduction to Arduino: A brief overview of microcontrollers, their components, and their applications in automation and embedded systems.
 
 ## Progress Gallery
+![image1](image1.png)
+![image2](image2.png)
+![image3](image3.png)
