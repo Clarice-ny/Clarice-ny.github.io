@@ -1,4 +1,4 @@
-# Module 4
+# MODULE 4
 # What I Learned: Introduction to Raspberry Pi Pico and Basic Programming
 ## 🔌 1. Getting Started with Raspberry Pi Pico
 I learned how to connect the Raspberry Pi Pico to my computer using a USB cable. I discovered that the Pico is a compact and powerful microcontroller that can be programmed using both C++ and MicroPython. It comes with an onboard LED connected to GPIO 25, which is perfect for basic experiments.

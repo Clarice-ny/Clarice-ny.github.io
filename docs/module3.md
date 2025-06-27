@@ -1,4 +1,4 @@
-# Module 3
+# MODULE 3
 ## Introduction to ESP32 and Electrical Circuits and Components
 
 ## 🧠 What’s the ESP32?
